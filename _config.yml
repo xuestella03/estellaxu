@@ -1,4 +1,4 @@
-remote_theme: zolan
+remote_theme: Zolan
 
 baseurl: "/projects" # the subpath of your site, e.g. /blog
 url: "https://xuestella03.github.io/estellaxu" # the base hostname & protocol for your site, e.g. http://example.com
